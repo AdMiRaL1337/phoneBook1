@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@material-ui/data-grid": "^4.0.0-alpha.37",
+    "bootstrap": "^5.2.3",
+    "react-bootstrap": "^2.7.0",
+    "react-csv": "^2.2.2",
+    "react-icons": "^4.7.1"
+  }
+}
